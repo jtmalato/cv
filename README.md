@@ -149,7 +149,7 @@
     <tr>
       <td>2023</td>
       <td>
-        <li><b>[Pfizer Clinical Research Award](https://www.pfizer.pt/a-nossa-ciencia/nossa-ciencia-apoio-a-investigacao/premios-pfizer)</b>, Sociedade das Ciências Médicas de Lisboa</li>
+        <li><a href="https://www.pfizer.pt/a-nossa-ciencia/nossa-ciencia-apoio-a-investigacao/premios-pfizer"><b>Pfizer Clinical Research Award</b></a>, Sociedade das Ciências Médicas de Lisboa</li>
         <li><b>Scholarship to attend and present at the XXVI SPE Congress</b>, Portuguese Statistical Society</li>
       </td>
     </tr>
