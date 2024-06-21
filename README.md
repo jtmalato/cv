@@ -96,7 +96,7 @@
         
 7. **Malato, J**, Sotzny, F, Bauer, S, Freitag, H, Fonseca, A, Grabowska, AD, Graça, L, Cordeiro, C, Nacul, L, Lacerda, EM, Castro-Marrero, J, Scheibenbogen, C, Westermeier, F, Sepúlveda, N. The SARS-CoV-2 receptor angiotensin-converting enzyme 2 (ACE2) in myalgic encephalomyelitis/chronic fatigue syndrome: A meta-analysis of public DNA methylation and gene expression data. *Heliyon*. 2021; 7(8):e07665. [DOI:https://doi.org/10.1016/j.heliyon.2021.e07665](https://doi.org/10.1016/j.heliyon.2021.e07665).
         
-8. Soares, MC, Cardoso, SC, **Malato, JT**, Messias, JP. Can cleanerfish overcome temptation? A selective role for dopamine influence on cooperative-based decision making. \textit{Physiology \& Behavior}. 2017; 169, 124-129. [DOI:https://doi.org/10.1016/j.physbeh.2016.11.028](https://doi.org/10.1016/j.physbeh.2016.11.028).
+8. Soares, MC, Cardoso, SC, **Malato, JT**, Messias, JP. Can cleanerfish overcome temptation? A selective role for dopamine influence on cooperative-based decision making. *Physiology & Behavior*. 2017; 169, 124-129. [DOI:https://doi.org/10.1016/j.physbeh.2016.11.028](https://doi.org/10.1016/j.physbeh.2016.11.028).
 
 
 ## Proceedings book chapters
