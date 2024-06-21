@@ -149,7 +149,7 @@
     <tr>
       <td>2023</td>
       <td>
-        <li><b>Pfizer Clinical Research Award</b>, Sociedade das Ciências Médicas de Lisboa</li>
+        <li><b>[Pfizer Clinical Research Award](https://www.pfizer.pt/a-nossa-ciencia/nossa-ciencia-apoio-a-investigacao/premios-pfizer)</b>, Sociedade das Ciências Médicas de Lisboa</li>
         <li><b>Scholarship to attend and present at the XXVI SPE Congress</b>, Portuguese Statistical Society</li>
       </td>
     </tr>
@@ -165,7 +165,7 @@
         Regression models; Regularization for linear models
       </td>
       <td>
-        Workshop given along with Dr Nuno Sepúlveda at <a href="https://ngschool.eu/ngschool2022/">NGSchool 2022</a> Summer School for Machine Learning in Computational Biology. Jabłonna, Warsaw, Poland
+        Workshop given along with <a href="https://www.immune-stats.net/">Nuno Sepúlveda</a> at <a href="https://ngschool.eu/ngschool2022/">NGSchool 2022</a> Summer School for Machine Learning in Computational Biology. Jabłonna, Warsaw, Poland
       </td>
     </tr>
     <tr>
@@ -176,7 +176,7 @@
         Data Science with R
       </td>
       <td>
-        Course Assistant. Faculty of Sciences, University of Lisbon, Lisbon, Portugal
+        Course Assistant under <a href="https://github.com/saghirb">Saghir Bashir</a> (<a href="https://github.com/ilustat">Ilustat</a>). CEAUL, Faculty of Sciences, University of Lisbon, Lisbon, Portugal
       </td>
     </tr>
     </tr>
@@ -185,33 +185,33 @@
         1st Semester 2019/2020
       </td>
       <td>
-        Introduction to Biostatistics
+        Introduction to Biostatistics, BSc in Biology
       </td>
       <td>
-        Class Assistant for the Biology BSc course. Faculty of Sciences, University of Lisbon, Lisbon, Portugal
+        Class Assistant under <a href="https://github.com/TiagoAMarques">Tiago A. Marques</a>. Faculty of Sciences, University of Lisbon, Lisbon, Portugal
       </td>
     </tr>
-    </tr>
-    <tr>
-      <td>
-        1st Semester 2019/2020
-      </td>
-      <td>
-        Ecological Models
-      </td>
-      <td>
-        Class Assistant for the Ecology MSc course. Faculty of Sciences, University of Lisbon, Lisbon, Portugal
-      </td>
     </tr>
     <tr>
       <td>
         1st Semester 2019/2020
       </td>
       <td>
-        Tidying data with R
+        Ecological Models, MSc in Ecology
       </td>
       <td>
-        Course Assistant. CEAUL, Faculty of Sciences, University of Lisbon, Lisbon, Portugal
+        Class Assistant under <a href="https://github.com/TiagoAMarques">Tiago A. Marques</a>. Faculty of Sciences, University of Lisbon, Lisbon, Portugal
+      </td>
+    </tr>
+    <tr>
+      <td>
+        1st Semester 2019/2020
+      </td>
+      <td>
+        Tidying data with R, MSc in Biostatistics
+      </td>
+      <td>
+        Course Assistant under <a href="https://github.com/saghirb">Saghir Bashir</a> (<a href="https://github.com/ilustat">Ilustat</a>). CEAUL, Faculty of Sciences, University of Lisbon, Lisbon, Portugal
       </td>
     </tr>
     <tr>
@@ -222,7 +222,7 @@
         Data Wrangling and Data Publication
       </td>
       <td>
-        Main course teacher. CEAUL, University of the Azores, Island Terceira Campus, Angra do Heroísmo, Portugal
+        Main course teacher. University of the Azores, Island Terceira Campus, Angra do Heroísmo, Portugal
       </td>
     </tr>
     <tr>
@@ -233,7 +233,7 @@
         Tidying data with R
       </td>
       <td>
-        Course Assistant. CEAUL, Faculty of Sciences, University of Lisbon, Lisbon, Portugal
+        Course Assistant under <a href="https://github.com/saghirb">Saghir Bashir</a> (<a href="https://github.com/ilustat">Ilustat</a>). CEAUL, Faculty of Sciences, University of Lisbon, Lisbon, Portugal
       </td>
     </tr>
       </td>
@@ -246,7 +246,7 @@
         Data Science with R
       </td>
       <td>
-        Course Assistant. CEAUL, Faculty of Sciences, University of Lisbon, Lisbon, Portugal
+        Course Assistant under <a href="https://github.com/saghirb">Saghir Bashir</a> (<a href="https://github.com/ilustat">Ilustat</a>). CEAUL, Faculty of Sciences, University of Lisbon, Lisbon, Portugal
       </td>
     </tr>
   </tbody>
@@ -257,7 +257,7 @@
 
 ### Invited
 
-1. Young Investigator Panel: Insights on Getting Involved in ME/CFS and Long Covid Research and Initiating and Running Clinical Trials. *1st International Conference on Clinical and Scientific Advances in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Long COVID*, Luso-Americal Development Foundation, Lisbon, Portugal, Apr 4, 2024.
+1. Young Investigator Panel: Insights on Getting Involved in ME/CFS and Long Covid Research and Initiating and Running Clinical Trials. *[1st International Conference on Clinical and Scientific Advances in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Long COVID](https://conferencia-emsfc-pos-covid.pt/)*, Luso-Americal Development Foundation, Lisbon, Portugal, Apr 4, 2024.
 
 2. Stability of hybrid vs. vaccine immunity against BA.5 infection over 8 months. *iMM's Immunology Club*, Lisbon, Portugal, Jan 25, 2023.
 
@@ -270,21 +270,21 @@
 
 ### Contributed
 
-1. **Malato, J**, Graça, L, Sepúlveda, N. Statistical challenges of investigating a disease with complex diagnosis. *1st International Conference on Clinical and Scientific Advances in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Long COVID*, [Poster presentation]. Lisbon, Portugal, Apr 2024.
-2. **Malato, J**, Ribeiro, RM, Fernandes, E, Leite, PP, Casaca, P, Antunes, C, Fonseca, VR, Gomes, MC, Graça, L. The magnitude and stability of protection against Omicron SARS-CoV-2 acquired by hybrid immunity. *XXVI Congress of the Portuguese Statistical Society*, [Oral presentation]. Guimarães, Portugal, Oct 2023.
-3. **Malato, J**, Graça, L, Sepúlveda, N. Cellular compartments in myalgic encephalomyelitis/chronic fatigue syndrome associated with disease trigger. *International ME/CFS Research Conference*, [Poster presentation]. Berlin, Germany, May 2023.
+1. **Malato, J**, Graça, L, Sepúlveda, N. Statistical challenges of investigating a disease with complex diagnosis. *[1st International Conference on Clinical and Scientific Advances in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Long COVID](https://conferencia-emsfc-pos-covid.pt/)*, [Poster presentation]. Lisbon, Portugal, Apr 2024.
+2. **Malato, J**, Ribeiro, RM, Fernandes, E, Leite, PP, Casaca, P, Antunes, C, Fonseca, VR, Gomes, MC, Graça, L. The magnitude and stability of protection against Omicron SARS-CoV-2 acquired by hybrid immunity. *[XXVI Congress of the Portuguese Statistical Society](https://w3.math.uminho.pt/SPE2023/)*, [Oral presentation]. Guimarães, Portugal, Oct 2023.
+3. **Malato, J**, Graça, L, Sepúlveda, N. Cellular compartments in myalgic encephalomyelitis/chronic fatigue syndrome associated with disease trigger. *[International ME/CFS Research Conference](https://mecfs-research.org/en/conference2023/)*, [Poster presentation]. Berlin, Germany, May 2023.
 4. **Malato, J**, Graça, L, Sepúlveda, N. Impact of misdiagnosis in case-control studies of ME/CFS. *XVI CAML and VI NeurULisboa PhD Students Meeting*, [Oral presentation at Advanced students session]. Lisbon, Portugal, May 2023.
 5. **Malato, J**, Biecek, P, Graça, L, Sepúlveda, N. Cellular compartments in myalgic encephalomyelitis/chronic fatigue syndrome associated with disease trigger. *XV CAML and V NeurULisboa PhD Students Meeting*, [Poster presentation at Intermediate students session]. Lisbon, Portugal, May 2022.
-6. **Malato, J**, Biecek, P, Graça, L, Sepúlveda, N. Cellular compartments in myalgic encephalomyelitis/chronic fatigue syndrome associated with disease trigger. *XLVII Annual Meeting of the Portuguese Society for Immunology*, [Poster presentation]. Lisbon, Portugal, Apr 2022.
-7. **Malato, J**, Graça, L, Sepúlveda, N. Impact of misclassification in complex diseases. *Lisbon Young Mathematicians Conference*, [Oral presentation]. Lisbon, Portugal, Apr 2022.
+6. **Malato, J**, Biecek, P, Graça, L, Sepúlveda, N. Cellular compartments in myalgic encephalomyelitis/chronic fatigue syndrome associated with disease trigger. *[XLVII Annual Meeting of the Portuguese Society for Immunology](https://www.spimunologia.org/news/spi-2022/)*, [Poster presentation]. Lisbon, Portugal, Apr 2022.
+7. **Malato, J**, Graça, L, Sepúlveda, N. Impact of misclassification in complex diseases. *[Lisbon Young Mathematicians Conference](https://ciencias.ulisboa.pt/en/node/14293)*, [Oral presentation]. Lisbon, Portugal, Apr 2022.
 8. **Malato, J**, Fonseca, A. DNA methylation analysis of the ADAM17, DPP4, and TMPRSS2 genes in ME/CFS. *Faculty of Mathematics and Information Science, Warsaw University of Technology*, [Oral presentation for class on Computational Biomedicine using R]. Warsaw, Poland, Jan 2022.
-9. **Malato, J**, Graça, L, Sepúlveda, N. Impact of misclassification in association analyses of complex illnesses: The case of ME/CFS. *XXV Congress of the Portuguese Statistical Society*, [Oral presentation]. Évora, Portugal, Oct 2021.
+9. **Malato, J**, Graça, L, Sepúlveda, N. Impact of misclassification in association analyses of complex illnesses: The case of ME/CFS. *[XXV Congress of the Portuguese Statistical Society](http://www.spe2021.uevora.pt/)*, [Oral presentation]. Évora, Portugal, Oct 2021.
 10. **Malato, J**, Graça, L, Lacerda, EM, Nacul, L, Sepúlveda, N. Impact of misclassification in genetic and serological association studies of complex illnesses without a biomarker: the case of ME/CFS. *XIV CAML and IV NeurUlisboa PhD Students Virtual Meeting*, [Oral presentation at Intermediate students session]. Lisbon, Portugal, May 2021. [[Video](https://youtu.be/bWQ3ZXeKx-k)].
 11. **Malato, J**, Graça, L, Lacerda, EM, Nacul, L, Sepúlveda, L. Stratification of ME/CFS patients using multivariate methods. *Virtual iMM Computational Biology and Bioinformatics Day*, [3-minute pitch talk]. Lisbon, Portugal, Oct 2020.
-12. **Malato, J**, Graça, L, Lacerda, EM, Nacul, L, Sepúlveda, N. Stratification of patients with ME/CFS using multivariate analysis. *Jornadas de Estatística Médica*, [Oral presentation]. Lisbon, Portugal, Feb 2020.
+12. **Malato, J**, Graça, L, Lacerda, EM, Nacul, L, Sepúlveda, N. Stratification of patients with ME/CFS using multivariate analysis. *[Jornadas de Estatística Médica](https://rc.cplp.org/Record/rcaap_e0b062d2c754aae190de21786c0299df)*, [Oral presentation]. Lisbon, Portugal, Feb 2020.
 13. **Malato, J**, Antunes, M, Sepúlveda, N. Statistical approaches to measure heterogeneity in malaria transmission intensity. *XXIV Congress of the Portuguese Statistical Society*, [Oral presentation]. Amarante, Portugal, Nov 2019.
 14. **Malato, J**, Sepúlveda, N. Statistical modelling in malaria sero-epidemiology. *Malaria Centre Retreat*, [1-minute "Turbo talk"]. Cambridge, UK, Apr 2018.
-15. **Malato, J**, Barnett, A, Abrantes, K, Fitzpatrick, R, Soares, MC. Living dangerously: mutualistic associations between cleanerfish and sharks. *XII Conference of the Portuguese Society of Ethology*, [Poster presentation]. Lisbon, Portugal, Oct 2015.
+15. **Malato, J**, Barnett, A, Abrantes, K, Fitzpatrick, R, Soares, MC. Living dangerously: mutualistic associations between cleanerfish and sharks. *[XII Conference of the Portuguese Society of Ethology](https://etologia.pt/wp-content/uploads/2023/02/SPE2015_Abstracts.pdf)*, [Poster presentation]. Lisbon, Portugal, Oct 2015.
 
 ### Year in review videos
 
@@ -299,13 +299,12 @@ Christmas challenge from the Immune-Stats Lab, to produce a short video encapsul
 
 ### Community involvement
 
-- 2024-Present &emsp; Coordinating Committee of [Biometrics Section](https://sbiospe.weebly.com/), Portuguese Statistical Society
+- 2024-Present &emsp; Coordinating Committee of [Biometrics Section](https://sbiospe.weebly.com/) ([Portuguese Statistical Society](https://www.spestatistica.pt/en))
 - 2023 &emsp; PhD Workshops Committee
 - 2020 &emsp; PhD Retreat Committee
-- 2016-Present &emsp; University of Lisbon Orchestra
+- 2016-Present &emsp; [University of Lisbon Orchestra](https://oaul.pt/)
 
 ### Memberships
 
 - 2020-Present &emsp; Portuguese Statistical Society
 - 2016-Present &emsp; Lisbon Academic Orchestra Association
-
